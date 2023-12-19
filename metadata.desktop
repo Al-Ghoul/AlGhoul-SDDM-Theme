@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=AlGhoul Theme
+Description=ALGhoul's Theme for SDDM
+Author=Abdo .AlGhoul
+Copyright=Copyright (C) 2024 AlGhoul
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.0.1
+Website=https://al-ghoul-blog.vercel.app/
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=Abdo.AGhouul@gmail.com
+Theme-Id=AlGhoul-Theme
+Theme-API=2.11
