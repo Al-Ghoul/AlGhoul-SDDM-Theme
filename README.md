@@ -10,3 +10,6 @@ and call the package in ur *configration.nix* or *flake.nix* as follows:
       (callPackage ./modules/nix-os/alghoul-sddm-theme.nix {})
     ];
 ```
+
+## Preview
+![A preview of the theme](/preview.png)
